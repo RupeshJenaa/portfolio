@@ -4,7 +4,7 @@ A modern, responsive personal portfolio website built with vanilla HTML, CSS, an
 
 ## 🚀 Live Demo
 
-Visit the live portfolio: [https://rupeshjenaa.github.io/portfolio](https://rupeshjenaa.github.io/portfolio)
+Visit the live portfolio: [https://rupeshjenaa.github.io/portfolio]((https://rupesh-jena-portfolio.netlify.app/))
 
 ## ✨ Features
 
